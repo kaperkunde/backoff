@@ -1,6 +1,6 @@
 {
   "name": "@kaperkunde/backoff",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Per-place limits for outgoing calls: calls at once, spacing, calls a minute, time limits and byte budgets, a cool-down when a place refuses a call, a slowdown when it asks to be called more gently, and time limits learned from its answers. Composed from p-queue and cockatiel.",
   "license": "MIT",
   "type": "module",
